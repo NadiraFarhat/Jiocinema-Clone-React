@@ -2,7 +2,7 @@ import { useEffect, useState } from "react";
 import Carousel from "../components/carousel/Carousel";
 import Channels from "../components/channels/Channels";
 import Featured from "../components/featured/Featured";
-import Header from "../components/header/header";
+import Header from "../components/header/Header";
 import Shows from "../components/shows/Shows";
 import Tags from "../components/tags/Tags";
 
